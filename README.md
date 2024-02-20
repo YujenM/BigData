@@ -105,9 +105,9 @@ This project demonstrates a basic Hadoop MapReduce job to count occurrences of d
 
 
 
-- **Example:**
+- **How To Run:**
   ```bash
   hadoop jar (your jar file) (package name).(class name) inputPath outputPath
-```
+
 
 
