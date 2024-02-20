@@ -20,7 +20,6 @@ This project demonstrates a basic MapReduce job using Hadoop to count age groups
 
 - **Description:**
   - The main class that configures and runs the Hadoop MapReduce job for counting age groups.
-# AgeMapReduce
 
 ## 2. AgeMapper
 
